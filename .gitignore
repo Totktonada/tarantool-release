@@ -1,0 +1,8 @@
+# Vim Swap files
+.*.sw[a-z]
+
+# packpack build directory
+build
+
+# Secret variables
+env

@@ -1,0 +1,7 @@
+[tarantool-live-@RELEASE_SERIES@]
+name=Tarantool repository - @OS@-@DIST@
+baseurl=https://download.tarantool.org/tarantool/@RELEASE_SERIES@/@OS@/@DIST@/$basearch/
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-tarantool
+repo_gpgcheck=1
+gpgcheck=0
+enabled=0
